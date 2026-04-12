@@ -1,12 +1,7 @@
-# Swiggy Clone
+# Zomato Clone
 
 A clean Flutter replica of a food delivery app screen, built to showcase home browsing, search, recommendations, and item details.
 
-<div align="center">
-  <img src="assets/screenshots/screenshot-1.png" alt="Swiggy Clone Home Screen" width="720" />
-</div>
-
----
 
 ## 🚀 Overview
 
@@ -20,7 +15,7 @@ The app is built with:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Home landing screen** with a large cover image, location display, and profile/accessory buttons
 - **Search bar** to filter recommended dishes by name
@@ -32,7 +27,7 @@ The app is built with:
 
 ---
 
-## 📱 App Flow
+##  App Flow
 
 1. **Home Screen** (`HomeView`)
    - App entry point.
@@ -58,7 +53,7 @@ The app is built with:
 
 ---
 
-## 🧭 Screen Order
+##  Screen Order
 
 - **Home View**
 - **Recommended Section**
@@ -93,28 +88,20 @@ lib/
 ## 🖼 Screenshots
 
 <div align="center">
-  <img src="assets/screenshots/screenshot-1.png" alt="Swiggy Clone Home Screen" width="480" />
-  <img src="assets/screenshots/screenshot-2.png" alt="Swiggy Clone Search and Categories" width="480" />
-  <img src="assets/screenshots/screenshot-3.png" alt="Swiggy Clone Recommended Items" width="480" />
+  <img src="screen1.jpg" alt=" Home Screen" width="480" />
+  <img src="screen2.jpg" alt=" Search and Categories" width="480" />
+  <img src="screen3.jpg" alt=" Recommended Items" width="480" />
 </div>
 
 > Replace the screenshot assets in `assets/screenshots/` with real app capture images for the best README preview.
 
 ---
 
-## 🛠 Run Locally
+## 🛠 Run Locally  
 
-```bash
-cd swiggy_clone
 flutter pub get
 flutter run
-```
 
-If you want to run on a specific device:
-
-```bash
-flutter run -d <device-id>
-```
 
 ---
 
