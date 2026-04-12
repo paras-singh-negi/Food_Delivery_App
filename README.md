@@ -88,9 +88,9 @@ lib/
 ## 🖼 Screenshots
 
 <div align="center">
-  <img src="screen1.jpg" alt=" Home Screen" width="480" />
-  <img src="screen2.jpg" alt=" Search and Categories" width="480" />
-  <img src="screen3.jpg" alt=" Recommended Items" width="480" />
+  <img src="screen1 (1).jpg" alt=" Home Screen" width="480" />
+  <img src="screen 2.jpg" alt=" Search and Categories" width="480" />
+  <img src="screen 3.jpg" alt=" Recommended Items" width="480" />
 </div>
 
 > Replace the screenshot assets in `assets/screenshots/` with real app capture images for the best README preview.
