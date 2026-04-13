@@ -12,7 +12,7 @@ A modern **food delivery app UI clone** inspired by Zomato & Swiggy, built using
 
 ## 🚀 Demo Preview
 
-![App Demo](assets/demo.gif)
+![App Demo](assets/photo_2_2026-04-13_00-07-33.jpg,assets/photo_5_2026-04-13_00-07-33.jpg,assets/photo_3_2026-04-13_00-07-33.jpg)
 
 > 🎥 Replace this GIF with your real app recording (see steps below)
 
